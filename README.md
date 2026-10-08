@@ -12,8 +12,16 @@ Authored by:
 - Kajol Prasad ~ Backup Technical Lead
 
 --------------------------
-This is a forked version of the project for my use on my resume, original can be found here:
+This is a forked version of the project for use on my resume, original can be found here:
 https://github.com/GustavMahler5/CMPM120FinalProject
+
+Specific work I did on the project:
+ - Designed and coded level two (middle icon on level select screen). That being majority of the code, and all of the image assets in https://github.com/BeckGrah1/CMPM120FinalProject/tree/main/assets/images/level2
+ - Contributed assets used in menu prototypes
+ - Wrote base code for menu / scene transitions
+ - Designed credits scene
+
+Specific commits I did were done under the accounts BeckGrah1 (this account) and BeckGrah (https://github.com/BeckGrah)
 
 Prototypes
 --------------------------
