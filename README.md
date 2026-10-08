@@ -11,6 +11,10 @@ Authored by:
 - Jayla Lackaff ~ Production Lead
 - Kajol Prasad ~ Backup Technical Lead
 
+--------------------------
+This is a forked version of the project for my use on my resume, original can be found here:
+https://github.com/GustavMahler5/CMPM120FinalProject
+
 Prototypes
 --------------------------
 Gameplay Prototype - https://gustavmahler5.github.io/CMPM120FinalProject/prototypes/gameplayprototype.html
