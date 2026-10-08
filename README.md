@@ -3,7 +3,7 @@ CMPM 120 Final Project
 Space Groovin!  
 Play here on Github Pages!  
 https://gustavmahler5.github.io/CMPM120FinalProject/  
-Or here on itch!
+Or here on itch!  
 https://beckgrah.itch.io/space-groovin
 --------------------------
 Authored by:
